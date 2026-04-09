@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+This+is+Bashar;A+passionate+Frontend+Developer;Thanks+for+Visiting+My+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Bashar+👋;Frontend+Developer;Glad+to+Have+You+Here!" />
 </p>
 
 
