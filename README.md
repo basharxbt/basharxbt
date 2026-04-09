@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Bashar+👋;Frontend+Developer;Glad+to+Have+You+Here!" />
 </p>
 
-<h1 align="center">Hello World! I'm Bashar 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Frontend+Developer;Glad+to+Have+You+Here!" />
-</p>
 
 
 # 💫 About Me:
